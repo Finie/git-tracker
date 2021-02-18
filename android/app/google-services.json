@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "635645290876",
+    "project_id": "git-issues",
+    "storage_bucket": "git-issues.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635645290876:android:dd38ee27dad3a76d215cf9",
+        "android_client_info": {
+          "package_name": "com.fin.git_issue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635645290876-t5fnhi74i6bl97vberdprbt9reifrmj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxFB9szuPaUT36qo22W9r_67goLWztBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635645290876-t5fnhi74i6bl97vberdprbt9reifrmj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635645290876-i91mscfknb8qgnce1li5rsvfg5obgic3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fin.gitIssue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
